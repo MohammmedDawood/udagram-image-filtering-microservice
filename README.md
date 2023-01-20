@@ -118,13 +118,15 @@ or check [Postman collection](/udagram-final.postman_collection.json).
 15. (Optional) If the code is modified after deployment, you can run `eb deploy`
 
 ```shell
-Uploading udagram-image-filtering-microservice/app-4999-211130_104022.zip to S3. This may take a while.
+Uploading udagram-image-filtering-microservice/app-81c0-230120_105908596453.zip to S3. This may take a while.
 Upload Complete.
-2021-11-30 08:40:25    INFO    Environment update is starting.
-2021-11-30 08:40:29    INFO    Deploying new version to instance(s).
-2021-11-30 08:40:52    INFO    Instance deployment completed successfully.
-2021-11-30 08:40:56    INFO    New application version was deployed to running EC2 instances.
-2021-11-30 08:40:56    INFO    Environment update completed successfully.
+2023-01-20 08:59:09    INFO    Environment update is starting.
+2023-01-20 08:59:13    INFO    Deploying new version to instance(s).
+2023-01-20 08:59:16    INFO    Instance deployment: You didn't specify a Node.js version in the 'package.json' file in your source bundle. The deployment didn't install a specific Node.js version.
+2023-01-20 08:59:34    INFO    Instance deployment completed successfully.
+2023-01-20 08:59:40    INFO    New application version was deployed to running EC2 instances.
+2023-01-20 08:59:40    INFO    Environment update completed successfully.
+
 ```
 
 16. (Optional) If you want to remove all resources created and terminate, you can run `eb terminate image-filtering-dawood`
