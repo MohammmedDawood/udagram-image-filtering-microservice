@@ -22,7 +22,7 @@ or check [Postman collection](/udagram-final.postman_collection.json).
 
 **Note:**
 
-> 30/11/2021: Website can be accessed through AWS with limited access.
+> 20/01/2023: Website can be accessed through AWS with limited access.
 > (Deployment status can be found [here](/deployment_screenshots/))
 
 ## Deployment - Getting Started
