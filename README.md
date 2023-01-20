@@ -15,8 +15,8 @@ Udagram is a simple cloud application developed alongside the Udacity Cloud Engi
 
 AWS EB URL: http://image-filtering-dawood.eu-central-1.elasticbeanstalk.com/
 
-Test API through this [link](http://localhost:8082/filteredimage?image_url=https://raw.githubusercontent.com/MohammmedDawood/deploy-a-static-website-on-aws/main/docs/images/website-homepage.png),
-or check [Postman collection](/udagram-final.postman_collection.json).
+Test API through this [link](http://image-filtering-dawood.eu-central-1.elasticbeanstalk.com/filteredimage?image_url=https://raw.githubusercontent.com/MohammmedDawood/deploy-a-static-website-on-aws/main/docs/images/website-homepage.png),
+or check [Postman collection](/cloud-cdnd-c2-final.postman_collection.json).
 
 ![Udagram - Example](/deployment_screenshots/udagram_example.png)
 
